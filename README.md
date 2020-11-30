@@ -1,2 +1,2 @@
 # BMS
-Battery Managnement system
+Battery Managnement System
